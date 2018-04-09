@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimplyNotes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_note_pilih">NotePilih</string>
+    <string name="DeleteNote">Are you Sure?</string>
+    <string name="title">TITLE</string>
+    <string name="fixeror2">Your text here</string>
+</resources>
+
